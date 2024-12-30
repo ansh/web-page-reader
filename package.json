@@ -71,7 +71,7 @@
   },
   "engines": {
     "node": "20"
-  }
+  },
   "lint-staged": {
     "**/*": "npm run prettier",
     "**/*.{js,ts}": "npm run lint:fix"
